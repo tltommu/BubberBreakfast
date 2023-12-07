@@ -1,0 +1,6 @@
+@BubberBreakfast_HostAddress = http://localhost:5059
+
+GET {{BubberBreakfast_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
