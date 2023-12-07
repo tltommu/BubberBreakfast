@@ -34,3 +34,4 @@ C:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast\obj\Debug\
 C:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast\obj\Debug\net8.0\BubberBreakfast.genruntimeconfig.cache
 C:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast\obj\Debug\net8.0\ref\BubberBreakfast.dll
 c:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast\bin\Debug\net8.0\ErrorOr.dll
+c:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast\obj\Debug\net8.0\BubberBreakfast.sourcelink.json

@@ -23,3 +23,4 @@ C:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast.Contracts\
 C:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast.Contracts\obj\Debug\net8.0\BubberBreakfast.Contracts.pdb
 C:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast.Contracts\obj\Debug\net8.0\BubberBreakfast.Contracts.genruntimeconfig.cache
 C:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast.Contracts\obj\Debug\net8.0\ref\BubberBreakfast.Contracts.dll
+c:\Users\tomto\OneDrive\文件\GitHub\BubberBreakfast\BubberBreakfast.Contracts\obj\Debug\net8.0\BubberBreakfast.Contracts.sourcelink.json
